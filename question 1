@@ -1,0 +1,12 @@
+1 first question
+1. Using datasets.sklearn, generate a dataset with 1000 samples, 2 classes and 2 features.
+2. By using at least two ready-made Python classes and considering appropriate metaparameters, two classes in the dataset
+Separate the previous part. While explaining the selection process of meta-parameters (such as the number of training courses and rates
+learning), display the result of training and assessment accuracy. What techniques did you use to improve the result?
+3. Show the boundaries and decision areas resulting from your trained model along with examples in a diagram. if you can
+Display misclassified samples in a different shape.
+4. How can the dataset produced in part "1" be made more challenging and difficult? He did this and
+Repeat parts "2" and "3" for this new data and compare the results.
+5. If a class is added to the data produced in part "1", in which parts of the teaching and evaluation block diagram
+Will there be any changes? Explain about these changes. Can you implement in this mode easily and with
+Do you use ready-made Python libraries and code? implement.
