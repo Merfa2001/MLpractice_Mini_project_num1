@@ -1,0 +1,20 @@
+2 The second question
+1. By referring to this link, get acquainted with a dataset related to the field of "banking" and while briefly explaining its goals and features,
+Download the file and after uploading it to your Google Drive, put it in the Google Kolb environment with the gdown command
+give If you need to change the format of this dataset file, do it with Python commands.
+1. Mix the data and divide it into two with the desired and reasonable ratio
+2. While explaining the importance of the process of pouring (mixing)
+Divide the "training" and "evaluation" sections.
+3. Code the model, loss function and learning and evaluation algorithm without using ready-made Python libraries to
+The classes in the dataset are well separated from each other. Draw the graph of the loss function and evaluate the accuracy result
+Calculate on the test data. Analyze the graph of the loss function. Can it be seen from the graph of the loss function and before
+From the evaluation stage, did you comment with certainty about the performance of the model? Why and if not, what is the solution?
+4. Explain at least two methods for data normalization, mentioning the importance of this process, and using one of these methods,
+Normalize the data. Did you use the information in the "Evaluation" section in the normalization process? Why?
+5 Repeat all parts "1" to "3" using the normalized data and predict the results of the model for five samples.
+show data
+6. Using Python coding, show the balance of the data in the two classes in the dataset. Do the number of samples
+Are the classes equal? What problems can an imbalance in the dataset lead to? What to solve this issue?
+What can be done? Implement and compare and report the result.
+7. Performed the model training and evaluation process using a ready-made Python classifier and this time in this challenge mode
+Resolve class data imbalance.
