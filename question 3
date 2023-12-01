@@ -1,0 +1,13 @@
+3. The third question
+1. Refer to this link and get a dataset related to "heart disease" and brief explanations about
+Write its purpose and characteristics. Place the downloaded dataset file on your Google Drive and use the command
+gdown and upload it to the Google Collab environment.
+2. While paying attention to the location of the target and its features, make the dataset into a data frame and use the commands
+Python, put 100 data samples related to class "1" and 100 data samples related to class "0" in a new dataframe.
+and work with this new dataframe in the next sections.
+3. By using at least two ready-made Python classes and considering the appropriate metaparameters, the two classes in the dataset
+Separate from each other. Display the result of training and evaluation accuracy.
+4. In the mode of using the Psychit Learn ready commands, is there a way to display the graph of the loss function? Implementation
+do.
+5. Define an evaluation index (other than Accuracy) and check how this new index can be
+displayed in the evaluation of the test data. implement
